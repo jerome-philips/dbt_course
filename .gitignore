@@ -1,0 +1,10 @@
+.venv/
+logs/
+target/
+dbt_packages/
+profiles.yml
+.user.yml
+.DS_Store
+*.p8
+*.pem
+rsa_key*
